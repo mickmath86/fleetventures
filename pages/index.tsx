@@ -37,7 +37,7 @@ export default function Home() {
 
         <div className={styles.center}>
           <h1>Creating financial freedom through real estate investing.</h1>
-          <h3>Fleet Ventures is a Southern California Real Estate Investments and Brokerage Firm specializes in providing expert real estate investment and brokerage services to clients throughout the region. With years of experience in the industry, we have a deep understanding of the local market and are committed to helping clients make informed investment decisions. Our services include property acquisition, asset management, and sales and leasing. Whether you're a seasoned real estate investor or a first-time home buyer, we are here to help you achieve your real estate goals and build wealth through smart investments.</h3>
+          <h3>{`Fleet Ventures is a Southern California Real Estate Investments and Brokerage Firm specializes in providing expert real estate investment and brokerage services to clients throughout the region. With years of experience in the industry, we have a deep understanding of the local market and are committed to helping clients make informed investment decisions. Our services include property acquisition, asset management, and sales and leasing. Whether you're a seasoned real estate investor or a first-time home buyer, we are here to help you achieve your real estate goals and build wealth through smart investments.`}</h3>
           {/* <Image
             className={styles.logo}
             src="/next.svg"
